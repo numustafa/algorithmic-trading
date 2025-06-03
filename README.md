@@ -22,15 +22,11 @@ The course provides hands-on experience with:
 
 ## Learning Objectives
 
-Through these modules, you'll gain expertise in:
-- Strategy development and backtesting
-- Risk management techniques
-- Market data analysis
-- Automated execution systems
-- Performance optimization
-- Machine learning applications in trading
-- Sentiment analysis for market prediction
-- Volatility modeling with GARCH
+- Understand the fundamentals of algorithmic trading and machine learning. Challanges faced in ML when applied to trading.
+- Project 1
+- Project 2
+- Project 3
+
 
 ---
 
